@@ -1,0 +1,18 @@
+[theme]
+# Primary brand color for buttons, sliders, etc.
+primaryColor = "#dfdfdfff"
+
+# Background color for the main content area
+backgroundColor = "#0b001bff"
+
+# Sidebar background color
+secondaryBackgroundColor = "#0019fbff"
+
+# Color for text
+textColor = "#b5b5b5ff"
+
+# Font options: "sans serif", "serif", or "monospace"
+font = "sans serif"
+
+# Optional: Customize widgets hover or accent feel
+base = "dark"
